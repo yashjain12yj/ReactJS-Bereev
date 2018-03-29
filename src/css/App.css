@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  text-align: right;
+  background-color: #222;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+#modal-button{
+	margin: 0px 10px;
+}
